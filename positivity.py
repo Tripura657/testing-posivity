@@ -27,4 +27,4 @@ st.info(challenge)
 
 # Optional: Button to get a new challenge
 if st.button("🔄 New Challenge"):
-    st.experimental_rerun()
+    st.rerun()
